@@ -337,6 +337,16 @@ You can resubmit until the deadline, within the bounty's daily submission limit.
 entry is the one that counts unless you pick an earlier one.
 </details>
 
+<details>
+<summary><strong>Who owns the code I build for a bounty?</strong></summary>
+
+You do — you are the author, and the entry lives in your own public repository. But every
+entry must carry an OSI-approved open-source license (MIT is the usual choice), so anyone may
+use, study and build on your code under that license's terms. Pick the license knowing the code
+will be public: don't put secrets, private keys or anything you want to keep closed in the
+repository. If your entry wins, the reward is yours; the code stays open.
+</details>
+
 ## Links
 
 - [make.fun](https://make.fun): the bounty board
